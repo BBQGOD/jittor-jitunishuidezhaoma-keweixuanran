@@ -1,4 +1,4 @@
-# 可微渲染新视角生成赛题：multistage NeRF
+# 可微渲染新视角生成赛题：Multistage NeRF
 
 ## 项目介绍
 
